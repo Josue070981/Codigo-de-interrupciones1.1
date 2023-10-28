@@ -37,3 +37,9 @@ operacion_numeros("resta", random.uniform(min_tiempo, max_tiempo))
 operacion_numeros("suma", random.uniform(min_tiempo, max_tiempo))
 operacion_numeros("division", random.uniform(min_tiempo, max_tiempo))
 operacion_numeros("multiplicacion", random.uniform(min_tiempo, max_tiempo))
+
+# Operaciones adicionales
+operacion_numeros("divisom", random.uniform(min_tiempo, max_tiempo))
+operacion_numeros("suma", random.uniform(min_tiempo, max_tiempo))
+operacion_numeros("resta", random.uniform(min_tiempo, max_tiempo))
+
